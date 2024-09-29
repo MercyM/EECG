@@ -1,0 +1,28 @@
+{
+    "name": "27m_vs_30m",
+    "num_allied_units": 27,
+    "num_enemy_units": 30,
+    "groups": [
+        {
+            "x": 9,
+            "y": 16,
+            "faction": "ALLY",
+            "units": {
+                "MARINE": 27
+            }
+        },
+        {
+            "x": 23,
+            "y": 16,
+            "faction": "ENEMY",
+            "units": {
+                "MARINE": 30
+            }
+        }
+    ],
+    "attack_point": [9, 16],
+    "terrain_preset": "SIMPLE",
+    "num_unit_types": 0,
+    "ally_has_shields": false,
+    "enemy_has_shields": false
+}
