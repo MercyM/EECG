@@ -58,7 +58,7 @@ hypergroup: null
 
 # --- EA options ---
 # Only frac (mutation alpha) and state_alpha (beta for VMM) need to be adjusted
-EA: 0
+EA: 1
 
 Pareto: False
 rl_to_ea_synch_period: 1
